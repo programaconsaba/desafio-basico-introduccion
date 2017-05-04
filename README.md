@@ -15,7 +15,7 @@ Para comprobar que el desafío está correctamente realizado hay que lanzar el t
 Se puede consultar el proceso paso a paso en la URL [https://programaconsaba.com/desafios/test](https://programaconsaba.com/desafios/test "https://programaconsaba.com/desafios/test")   
 
 # License
-    desafios-core - source code for the https://programaconsaba.com/desafios application
+    desafios - source code for the https://programaconsaba.com/desafios application
     Copyright (C) 2016 José Antonio Sabalete
 
     This program is free software: you can redistribute it and/or modify
