@@ -5,7 +5,7 @@
 	<artifactId>desafio-basico-introduccion</artifactId>
 	<name>Desafío básico Introducción</name>
 	<version>1.0.0</version>
-	<description>Toma de contacto con la dinámica de los desfíos de programación.</description>
+	<description>Toma de contacto con la dinámica de los desafíos de programación.</description>
 	<url>https://programaconsaba.com/desafios</url>
 
 	<parent>
