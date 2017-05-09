@@ -13,5 +13,13 @@
 		<artifactId>desafios-parent</artifactId>
 		<version>1.0.0</version>
 	</parent>
+	
+	<repositories>
+		<repository>
+			<id>programaconsaba-maven-repo</id>
+			<name>Maven repo en Git</name>
+			<url>https://raw.githubusercontent.com/programaconsaba/maven-repo/master/</url>
+		</repository>
+	</repositories>
 
 </project>
