@@ -12,7 +12,7 @@ Haciendo uso de la salida estándar se desea que el programa imprima el texto "H
 Este desafío introduce la dinámica que se va a seguir con un ejemplo muy sencillo que muestra una cadena de texto por pantalla.
 Para comprobar que el desafío está correctamente realizado hay que lanzar el test unitario creado a tal fin bajo la carpeta src/test/java. Se puede lanzar de manera individual o haciendo uso de MAVEN.
 
-Se puede consultar el proceso paso a paso en la URL [https://programaconsaba.com/desafios/test](https://programaconsaba.com/desafios/test "https://programaconsaba.com/desafios/test")   
+Se puede consultar el proceso paso a paso en la URL [https://programaconsaba.com/desafios](https://programaconsaba.com/desafios "https://programaconsaba.com/desafios")   
 
 # License
     desafios - source code for the https://programaconsaba.com/desafios application
